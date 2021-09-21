@@ -1,0 +1,16 @@
+D:\Documentos\Github\treinamentoCSharp\treinamento_dan_csharp\Pessoas\bin\Debug\net5.0\Pessoas.exe
+D:\Documentos\Github\treinamentoCSharp\treinamento_dan_csharp\Pessoas\bin\Debug\net5.0\Pessoas.deps.json
+D:\Documentos\Github\treinamentoCSharp\treinamento_dan_csharp\Pessoas\bin\Debug\net5.0\Pessoas.runtimeconfig.json
+D:\Documentos\Github\treinamentoCSharp\treinamento_dan_csharp\Pessoas\bin\Debug\net5.0\Pessoas.runtimeconfig.dev.json
+D:\Documentos\Github\treinamentoCSharp\treinamento_dan_csharp\Pessoas\bin\Debug\net5.0\Pessoas.dll
+D:\Documentos\Github\treinamentoCSharp\treinamento_dan_csharp\Pessoas\bin\Debug\net5.0\ref\Pessoas.dll
+D:\Documentos\Github\treinamentoCSharp\treinamento_dan_csharp\Pessoas\bin\Debug\net5.0\Pessoas.pdb
+D:\Documentos\Github\treinamentoCSharp\treinamento_dan_csharp\Pessoas\obj\Debug\net5.0\Pessoas.csproj.AssemblyReference.cache
+D:\Documentos\Github\treinamentoCSharp\treinamento_dan_csharp\Pessoas\obj\Debug\net5.0\Pessoas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Github\treinamentoCSharp\treinamento_dan_csharp\Pessoas\obj\Debug\net5.0\Pessoas.AssemblyInfoInputs.cache
+D:\Documentos\Github\treinamentoCSharp\treinamento_dan_csharp\Pessoas\obj\Debug\net5.0\Pessoas.AssemblyInfo.cs
+D:\Documentos\Github\treinamentoCSharp\treinamento_dan_csharp\Pessoas\obj\Debug\net5.0\Pessoas.csproj.CoreCompileInputs.cache
+D:\Documentos\Github\treinamentoCSharp\treinamento_dan_csharp\Pessoas\obj\Debug\net5.0\Pessoas.dll
+D:\Documentos\Github\treinamentoCSharp\treinamento_dan_csharp\Pessoas\obj\Debug\net5.0\ref\Pessoas.dll
+D:\Documentos\Github\treinamentoCSharp\treinamento_dan_csharp\Pessoas\obj\Debug\net5.0\Pessoas.pdb
+D:\Documentos\Github\treinamentoCSharp\treinamento_dan_csharp\Pessoas\obj\Debug\net5.0\Pessoas.genruntimeconfig.cache
