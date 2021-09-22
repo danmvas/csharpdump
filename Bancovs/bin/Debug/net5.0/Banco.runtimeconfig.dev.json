@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\Lyncas\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Lyncas\\.nuget\\packages"
-    ]
-  }
-}
