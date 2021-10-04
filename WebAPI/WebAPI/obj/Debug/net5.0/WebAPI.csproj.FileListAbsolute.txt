@@ -1,0 +1,59 @@
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\bin\Debug\net5.0\appsettings.json
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.exe
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.dll
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.dll
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+D:\Documentos\Github\Lyncas\estag\Daniella Vasconcellos\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\bin\Debug\net5.0\appsettings.json
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.exe
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.dll
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.dll
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+D:\Documentos\Github\Lyncas\estag\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
