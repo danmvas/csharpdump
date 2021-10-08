@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\Github\\treinamentoCSharp\\treinamento_dan_csharp\\Banco\\Bank.csproj": {}
+    "C:\\Users\\Lyncas\\OneDrive\\Documentos\\Lyncas\\treinamentoCSharp\\treinamento_dan_csharp\\Bank\\Bank.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\Github\\treinamentoCSharp\\treinamento_dan_csharp\\Banco\\Bank.csproj": {
+    "C:\\Users\\Lyncas\\OneDrive\\Documentos\\Lyncas\\treinamentoCSharp\\treinamento_dan_csharp\\Bank\\Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Github\\treinamentoCSharp\\treinamento_dan_csharp\\Banco\\Bank.csproj",
+        "projectUniqueName": "C:\\Users\\Lyncas\\OneDrive\\Documentos\\Lyncas\\treinamentoCSharp\\treinamento_dan_csharp\\Bank\\Bank.csproj",
         "projectName": "Bank",
-        "projectPath": "D:\\Documentos\\Github\\treinamentoCSharp\\treinamento_dan_csharp\\Banco\\Bank.csproj",
-        "packagesPath": "C:\\Users\\daniv\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Github\\treinamentoCSharp\\treinamento_dan_csharp\\Banco\\obj\\",
+        "projectPath": "C:\\Users\\Lyncas\\OneDrive\\Documentos\\Lyncas\\treinamentoCSharp\\treinamento_dan_csharp\\Bank\\Bank.csproj",
+        "packagesPath": "C:\\Users\\Lyncas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lyncas\\OneDrive\\Documentos\\Lyncas\\treinamentoCSharp\\treinamento_dan_csharp\\Bank\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\daniv\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Lyncas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

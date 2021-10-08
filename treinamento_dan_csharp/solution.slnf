@@ -1,0 +1,9 @@
+{
+  "solution": {
+    "path": "treinamento_dan_csharp.sln",
+    "projects": [
+      "Bank\\Bank.csproj",
+      "Pessoas\\Pessoas.csproj"
+    ]
+  }
+}
