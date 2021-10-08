@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\Github\\Lyncas\\treinamentoCSharp\\WebAPI\\WebAPI\\WebAPI.csproj": {}
+    "D:\\Documentos\\Github\\Lyncas\\treinamentoCSharp\\cursoEFCore\\CursoEF\\CursoEFCore.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\Github\\Lyncas\\treinamentoCSharp\\WebAPI\\WebAPI\\WebAPI.csproj": {
+    "D:\\Documentos\\Github\\Lyncas\\treinamentoCSharp\\cursoEFCore\\CursoEF\\CursoEFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Github\\Lyncas\\treinamentoCSharp\\WebAPI\\WebAPI\\WebAPI.csproj",
-        "projectName": "WebAPI",
-        "projectPath": "D:\\Documentos\\Github\\Lyncas\\treinamentoCSharp\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "D:\\Documentos\\Github\\Lyncas\\treinamentoCSharp\\cursoEFCore\\CursoEF\\CursoEFCore.csproj",
+        "projectName": "CursoEFCore",
+        "projectPath": "D:\\Documentos\\Github\\Lyncas\\treinamentoCSharp\\cursoEFCore\\CursoEF\\CursoEFCore.csproj",
         "packagesPath": "C:\\Users\\daniv\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Github\\Lyncas\\treinamentoCSharp\\WebAPI\\WebAPI\\obj\\",
+        "outputPath": "D:\\Documentos\\Github\\Lyncas\\treinamentoCSharp\\cursoEFCore\\CursoEF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daniv\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,17 +38,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.10, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.1, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.2, )"
             }
           },
           "imports": [
@@ -62,9 +54,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
