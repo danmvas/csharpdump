@@ -1,0 +1,2 @@
+{"Id":0,"NameUser":"AAAAAA","Surname":"string","Passport":"string","Email":"string","Phone":"string","Birthday":"string"}
+{"Id":1,"NameUser":"BBBBBBB","Surname":"string","Passport":"string","Email":"string","Phone":"string","Birthday":"string"}
