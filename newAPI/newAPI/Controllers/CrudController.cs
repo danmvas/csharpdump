@@ -3,29 +3,30 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WebAPI.Model;
-using WebAPI.Services;
+using newAPI.Model;
+using newAPI.Services;
 
-namespace WebAPI.Controllers
+namespace newAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     public class CrudController : ControllerBase
     {
-        public static List<User> _users = new List<User>();
 
         // GET api/<CrudController>/5
         [HttpGet("{id}")]
         public User Get(string id)
         {
-            return _users.Find(f => f.Id == id);
+            using var db = new Data.ApplicationContext();
+            return db.Users.Find(id);
 
         }
 
         [HttpGet]
         public IEnumerable<User> GetAllUsers()
         {
-            return _users;
+            using var db = new Data.ApplicationContext();
+            return db.Users.ToList();
         }
 
         // POST api/<CrudController>
@@ -34,8 +35,9 @@ namespace WebAPI.Controllers
         {
             if (!CheckUsers.ExistentUsers(user.Id))
             {
-                _users.Add(user);
-                SaveUsers.WriteBD();
+                using var db = new Data.ApplicationContext();
+                db.Users.Add(user);
+                db.SaveChanges();
                 return Ok();
             }
 
@@ -44,9 +46,10 @@ namespace WebAPI.Controllers
 
         // PUT api/<CrudController>/5
         [HttpPut("{id}")]
-        public ActionResult Edit(int id, User users)
+        public ActionResult Edit(string id, User users)
         {
-            var userDb = _users.Find(f => f.Id == id);
+            using var db = new Data.ApplicationContext();
+            var userDb = db.Users.Find(id);
 
             if(userDb == null)
             {
@@ -60,7 +63,7 @@ namespace WebAPI.Controllers
             userDb.Phone = users.Phone;
             userDb.Birthday = users.Birthday;
 
-            SaveUsers.WriteBD();
+            db.SaveChanges();
 
             return Ok();
 
@@ -68,18 +71,18 @@ namespace WebAPI.Controllers
 
         // DELETE api/<CrudController>/5
         [HttpDelete("{id}")]
-        public ActionResult Delete(int id)
+        public ActionResult Delete(string id)
         {
-
-            var userDb = _users.Find(f => f.Id == id);
+            using var db = new Data.ApplicationContext();
+            var userDb = db.Users.Find(id);
 
             if (userDb == null)
             {
                 return BadRequest();
             }
 
-            _users.Remove(userDb);
-            SaveUsers.WriteBD();
+            db.Users.Remove(userDb);
+            db.SaveChanges();
 
             return Ok();
 

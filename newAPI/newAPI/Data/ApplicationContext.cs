@@ -1,19 +1,16 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using WebAPI.Data.Configurations;
-using WebAPI.Model;
+using newAPI.Data.Configurations;
+using newAPI.Model;
 
-namespace WebAPI.Data
+namespace newAPI.Data
 {
     public class ApplicationContext : DbContext
     {
         public DbSet<User> Users { get; set; }
+        public object User { get; internal set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
-            optionsBuilder.UseSqlServer("Data source=(localdb)\\mssqllocaldb;Initial Catalog=WebAPI;Integrated Security=True");
+            optionsBuilder.UseSqlServer("Data source=(localdb)\\mssqllocaldb;Initial Catalog=newAPI;Integrated Security=True");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

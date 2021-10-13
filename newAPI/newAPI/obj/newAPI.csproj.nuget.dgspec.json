@@ -1,25 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\Github\\Lyncas\\newAPI\\newAPI\\newAPI.csproj": {}
+    "C:\\Users\\Lyncas\\OneDrive\\Documentos\\Lyncas\\treinamentoCSharp\\newAPI\\newAPI\\newAPI.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\Github\\Lyncas\\newAPI\\newAPI\\newAPI.csproj": {
+    "C:\\Users\\Lyncas\\OneDrive\\Documentos\\Lyncas\\treinamentoCSharp\\newAPI\\newAPI\\newAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Github\\Lyncas\\newAPI\\newAPI\\newAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Lyncas\\OneDrive\\Documentos\\Lyncas\\treinamentoCSharp\\newAPI\\newAPI\\newAPI.csproj",
         "projectName": "newAPI",
-        "projectPath": "D:\\Documentos\\Github\\Lyncas\\newAPI\\newAPI\\newAPI.csproj",
-        "packagesPath": "C:\\Users\\daniv\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Github\\Lyncas\\newAPI\\newAPI\\obj\\",
+        "projectPath": "C:\\Users\\Lyncas\\OneDrive\\Documentos\\Lyncas\\treinamentoCSharp\\newAPI\\newAPI\\newAPI.csproj",
+        "packagesPath": "C:\\Users\\Lyncas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lyncas\\OneDrive\\Documentos\\Lyncas\\treinamentoCSharp\\newAPI\\newAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\daniv\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Lyncas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +46,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.10, )"

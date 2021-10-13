@@ -4,9 +4,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WebAPI.Model;
+using newAPI.Model;
 
-namespace WebAPI.Data.Configurations 
+namespace newAPI.Data.Configurations 
 {
     public class UserConfiguration : IEntityTypeConfiguration<User>
     {
