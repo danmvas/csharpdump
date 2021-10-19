@@ -19,7 +19,6 @@ namespace newAPI.Controllers
         {
             using var db = new Data.ApplicationContext();
             return db.Users.Find(id);
-
         }
 
         [HttpGet]

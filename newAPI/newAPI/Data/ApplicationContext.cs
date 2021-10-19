@@ -7,7 +7,6 @@ namespace newAPI.Data
     public class ApplicationContext : DbContext
     {
         public DbSet<User> Users { get; set; }
-        public object User { get; internal set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
             optionsBuilder.UseSqlServer("Data source=(localdb)\\mssqllocaldb;Initial Catalog=newAPI;Integrated Security=True");
