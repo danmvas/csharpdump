@@ -1,2 +1,2 @@
-# treinamentoCSharp
- Apenas se esforçando pra aprender C#.
+# C# Dump
+Random stuff to slowly learn C#.
