@@ -8,6 +8,7 @@ using newAPI.Services;
 
 namespace newAPI.Controllers
 {
+
     [Route("api/[controller]")]
     [ApiController]
     public class CrudController : ControllerBase
@@ -50,7 +51,7 @@ namespace newAPI.Controllers
             using var db = new Data.ApplicationContext();
             var userDb = db.Users.Find(id);
 
-            if(userDb == null)
+            if (userDb == null)
             {
                 return BadRequest();
             }
