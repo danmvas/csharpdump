@@ -1,2 +1,2 @@
 # C# Dump
-Random stuff to slowly learn C#.
+random stuff to slowly learn C#.
